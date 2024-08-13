@@ -1,4 +1,4 @@
-Basketball Scoreboard
+## Basketball Scoreboard
 
 Introduction
 This project is part of a series of JavaScript practice exercises that I’m completing as part of the "Learn Javascript" course on Scrimba (https://v2.scrimba.com/) . The goal of this exercise is to get familiar with creating basic functions and using arithmetic operations in JavaScript.
